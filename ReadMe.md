@@ -2,8 +2,6 @@
 
 This project automates testing functionalities of a shopping cart on an e-commerce website using Selenium WebDriver.
 
-**Version:** <FILL_IN_VERSION_HERE> (Replace with your project's version number)
-
 **What you'll need:**
 
 * Basic understanding of Selenium WebDriver
